@@ -1,0 +1,1 @@
+{"You win! \ud83c\udf89": 0, "You lose! \ud83d\ude1e": 1, "It's a draw! \ud83d\ude10": 0}
